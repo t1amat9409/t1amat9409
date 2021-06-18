@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @t1amat9409
 - 👀 I’m interested in making music, coding (I'm bit lazy at night)
-- 🌱 I’m currently learning a lot off backend and frontend stuff
+- 🌱 I’m currently learning a lot of backend and frontend stuff
 - 💞️ I’m looking to collaborate on N/A
 - 📫 How to reach me 9409promos@gmail.com
 
